@@ -1,0 +1,9 @@
+#logoutbtn{
+    margin-left: 60rem;
+}
+
+#nav{
+    display: flex;
+    margin-left:60rem;
+    justify-content: center;
+}
